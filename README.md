@@ -1,3 +1,7 @@
+Leslie Lin\
+Ryan Caren Dang\
+Ruben Torres Romero\
+Ariel Suarez\
 Abstract:\
 \
 This research presents a comprehensive comparative analysis between YOLOv5 and YOLOv8, focusing on their applicability for real-time object detection on the resource-constrained Raspberry Pi platform. Leveraging a curated tank dataset, the study employs Google Colab for model training due to computational limitations inherent to the Raspberry Pi. The investigation encompasses evaluations on original images as well as assessments of model resilience under varying image conditions introduced by brightness and contrast adjustments.\
